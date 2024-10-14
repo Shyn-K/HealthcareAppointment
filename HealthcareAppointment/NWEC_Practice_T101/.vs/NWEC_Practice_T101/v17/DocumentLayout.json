@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HoangNgocThuy\\NWEC_Practice_T101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EABE9555-4468-45D5-9587-DF9EC0236ED3}|..\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj|d:\\hoangngocthuy\\healthcareappointment.models\\models\\healthcareappointmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABE9555-4468-45D5-9587-DF9EC0236ED3}|..\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj|d:\\hoangngocthuy\\healthcareappointment.models\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABE9555-4468-45D5-9587-DF9EC0236ED3}|..\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj|d:\\hoangngocthuy\\healthcareappointment.models\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABE9555-4468-45D5-9587-DF9EC0236ED3}|..\\HealthcareAppointment.Models\\HealthcareAppointment.Models.csproj|d:\\hoangngocthuy\\healthcareappointment.models\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41960C0E-CE68-4E14-9C16-5FCF8F02CFC2}|NWEC_Practice_T101.csproj|d:\\hoangngocthuy\\nwec_practice_t101\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41960C0E-CE68-4E14-9C16-5FCF8F02CFC2}|NWEC_Practice_T101.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41960C0E-CE68-4E14-9C16-5FCF8F02CFC2}|NWEC_Practice_T101.csproj|d:\\hoangngocthuy\\nwec_practice_t101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41960C0E-CE68-4E14-9C16-5FCF8F02CFC2}|NWEC_Practice_T101.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "D:\\HoangNgocThuy\\HealthcareAppointment.Models\\efpt.config.json",
+              "RelativeDocumentMoniker": "..\\HealthcareAppointment.Models\\efpt.config.json",
+              "ToolTip": "D:\\HoangNgocThuy\\HealthcareAppointment.Models\\efpt.config.json",
+              "RelativeToolTip": "..\\HealthcareAppointment.Models\\efpt.config.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T03:23:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\HoangNgocThuy\\HealthcareAppointment.Models\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\HealthcareAppointment.Models\\Models\\User.cs",
+              "ToolTip": "D:\\HoangNgocThuy\\HealthcareAppointment.Models\\Models\\User.cs",
+              "RelativeToolTip": "..\\HealthcareAppointment.Models\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:23:43.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\HoangNgocThuy\\HealthcareAppointment.Models\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "..\\HealthcareAppointment.Models\\Models\\Appointment.cs",
+              "ToolTip": "D:\\HoangNgocThuy\\HealthcareAppointment.Models\\Models\\Appointment.cs",
+              "RelativeToolTip": "..\\HealthcareAppointment.Models\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:23:29.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HoangNgocThuy\\NWEC_Practice_T101\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HoangNgocThuy\\NWEC_Practice_T101\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:20:34.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HoangNgocThuy\\NWEC_Practice_T101\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\HoangNgocThuy\\NWEC_Practice_T101\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T03:19:48.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthcareAppointmentContext.cs",
+              "DocumentMoniker": "D:\\HoangNgocThuy\\HealthcareAppointment.Models\\Models\\HealthcareAppointmentContext.cs",
+              "RelativeDocumentMoniker": "..\\HealthcareAppointment.Models\\Models\\HealthcareAppointmentContext.cs",
+              "ToolTip": "D:\\HoangNgocThuy\\HealthcareAppointment.Models\\Models\\HealthcareAppointmentContext.cs",
+              "RelativeToolTip": "..\\HealthcareAppointment.Models\\Models\\HealthcareAppointmentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:19:18.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

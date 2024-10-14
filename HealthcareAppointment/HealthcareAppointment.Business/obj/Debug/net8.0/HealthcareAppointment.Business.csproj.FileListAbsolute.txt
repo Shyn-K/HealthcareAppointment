@@ -1,0 +1,5 @@
+D:\HoangNgocThuy\HealthcareAppointment.Business\obj\Debug\net8.0\HealthcareAppointment.Business.csproj.AssemblyReference.cache
+D:\HoangNgocThuy\HealthcareAppointment.Business\obj\Debug\net8.0\HealthcareAppointment.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoangNgocThuy\HealthcareAppointment.Business\obj\Debug\net8.0\HealthcareAppointment.Business.AssemblyInfoInputs.cache
+D:\HoangNgocThuy\HealthcareAppointment.Business\obj\Debug\net8.0\HealthcareAppointment.Business.AssemblyInfo.cs
+D:\HoangNgocThuy\HealthcareAppointment.Business\obj\Debug\net8.0\HealthcareAppointment.Business.csproj.CoreCompileInputs.cache

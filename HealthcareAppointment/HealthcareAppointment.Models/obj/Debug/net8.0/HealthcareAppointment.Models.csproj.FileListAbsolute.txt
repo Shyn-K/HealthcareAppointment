@@ -1,0 +1,14 @@
+D:\HoangNgocThuy\HealthcareAppointment.Models\bin\Debug\net8.0\HealthcareAppointment.Models.deps.json
+D:\HoangNgocThuy\HealthcareAppointment.Models\bin\Debug\net8.0\HealthcareAppointment.Models.runtimeconfig.json
+D:\HoangNgocThuy\HealthcareAppointment.Models\bin\Debug\net8.0\HealthcareAppointment.Models.dll
+D:\HoangNgocThuy\HealthcareAppointment.Models\bin\Debug\net8.0\HealthcareAppointment.Models.pdb
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.csproj.AssemblyReference.cache
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.AssemblyInfoInputs.cache
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.AssemblyInfo.cs
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.csproj.CoreCompileInputs.cache
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.dll
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\refint\HealthcareAppointment.Models.dll
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.pdb
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\HealthcareAppointment.Models.genruntimeconfig.cache
+D:\HoangNgocThuy\HealthcareAppointment.Models\obj\Debug\net8.0\ref\HealthcareAppointment.Models.dll

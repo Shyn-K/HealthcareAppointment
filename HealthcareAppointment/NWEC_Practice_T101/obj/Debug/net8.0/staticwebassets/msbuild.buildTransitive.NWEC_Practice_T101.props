@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NWEC_Practice_T101.props" />
+</Project>

@@ -1,0 +1,6 @@
+@NWEC_Practice_T101_HostAddress = http://localhost:5020
+
+GET {{NWEC_Practice_T101_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

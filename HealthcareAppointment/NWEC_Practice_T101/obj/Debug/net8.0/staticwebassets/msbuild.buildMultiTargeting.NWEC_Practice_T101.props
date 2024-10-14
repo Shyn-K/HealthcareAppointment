@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NWEC_Practice_T101.props" />
+</Project>
